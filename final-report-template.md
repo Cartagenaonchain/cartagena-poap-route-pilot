@@ -138,16 +138,7 @@
 ---
 
 ## 7. Financial Summary
-
-| Budget Category | Budgeted | Actual | Variance |
-|----------------|---------|--------|---------|
-| Personnel | $[X] | $[X] | $[X] |
-| Technology | $[X] | $[X] | $[X] |
-| Vendor onboarding | $[X] | $[X] | $[X] |
-| Physical rewards | $[X] | $[X] | $[X] |
-| Events/activation | $[X] | $[X] | $[X] |
-| Contingency/misc | $[X] | $[X] | $[X] |
-| **Total** | **$45,000** | **$[X]** | **$[X]** |
+| **Total** | **$60,000** |
 
 *[Note any significant variances and explanations.]*
 
