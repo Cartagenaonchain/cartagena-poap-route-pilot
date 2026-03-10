@@ -1,0 +1,6 @@
+Diagram: user → QR claim → POAP mint → completion check → redemption
+ • Components:
+ • Claim UX (QR)
+ • Provider infra (HOOP/Pulse)
+ • Ops controls (QR rotation)
+ • Dashboard/reporting
