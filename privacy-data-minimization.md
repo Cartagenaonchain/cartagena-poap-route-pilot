@@ -8,7 +8,7 @@ The Cartagena POAP Route is designed with **data minimization as a default**, no
 
 ## What We Collect
 
-### On-Chain Data (Public, Pseudonymous)
+### Onchain Data (Public, Pseudonymous)
 
 | Data | What It Is | Why Collected |
 |------|-----------|---------------|
@@ -61,7 +61,7 @@ No individual wallet-level data will appear in public reports.
 Before or at the point of claiming their first POAP, participants will receive clear notice (displayed at the checkpoint or via the claim link landing page):
 
 > **Participation Notice**
-> Claiming this POAP records your wallet address and claim timestamp permanently on a public blockchain. This data is pseudonymous but publicly visible. No other personal information is required or collected. Your participation data is used only in aggregate for the Cartagena POAP Route impact report. For questions, contact [cartagenaonchain@email.com].
+> Claiming this POAP records your wallet address and claim timestamp permanently on a public blockchain. This data is pseudonymous but publicly visible. No other personal information is required or collected. Your participation data is used only in aggregate for the Cartagena POAP Route impact report. For questions, contact [info@cartagenaonchain.xyz].
 
 ---
 
